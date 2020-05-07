@@ -1,5 +1,5 @@
 # Python Project
-
+# Below is the professor's description of the project
 The python project is based on a previous Project 3 from CPTR 141.
 You may recongize it.
 
